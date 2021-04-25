@@ -1,5 +1,5 @@
-#FindAGrammer
-##Privacy is Dead Proof of Concept
+# FindAGrammer
+## Privacy is Dead Proof of Concept
 An instagram scraper built with NodeJS, Apify, Puppeteer, Cheerio, etc. 
 Takes a .json file path CL parameter of the following format:
 
