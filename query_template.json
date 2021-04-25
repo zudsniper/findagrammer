@@ -1,0 +1,10 @@
+{
+	"seedUsername":"jasonmcelhenney",
+	"depth":1,
+	"save":"F/M/A/N",
+	"saveType":"pdf/json",
+	"saveImages":true,
+	"names": ["sam","samuel"],
+	"mandatoryBioTerms":[],
+	"optionalPriorityBioTerms":[]
+}

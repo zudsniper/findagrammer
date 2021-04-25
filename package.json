@@ -1,0 +1,17 @@
+{
+  "name": "findagrammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^1.1.2",
+    "cheerio": "*",
+    "csv-parser": "^3.0.0",
+    "puppeteer": "^8.0.0"
+  }
+}
